@@ -35,3 +35,8 @@ Question No 4: Difference b/w Git & Github ?
         Git is a version control system that lets you manage and keep track of your source code history.
     Github :
         GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
+Question No 5: Stages of Git ?
+        Modified
+        Staged
+        Committed.
