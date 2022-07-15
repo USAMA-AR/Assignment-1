@@ -5,3 +5,15 @@ Question No 1: Agile vs DevOps ?
 
   Agile?
         The agile methodology is also a software development methodology that came circa 2001, when the agile manifesto was introduced. It employs four values and twelve principals that help build an “agile” software development culture. Generally speaking, agile encourages adoption and a leadership mindset that promotes teamwork, self-organization, and accountability.
+
+
+Question No 2: Define CI, Continuous Delivery & Continuous Deployment ?
+   
+   CI :
+        Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run.
+   
+   Continuous Delivery: 
+        Continuous delivery is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. It aims at building, testing, and releasing software with greater speed and frequency.
+
+   Continuous Deployment:
+        Continuous deployment is a strategy for software releases wherein any code commit that passes the automated testing phase is automatically released into the production environment, making changes that are visible to the software's users.
