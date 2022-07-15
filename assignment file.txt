@@ -40,3 +40,8 @@ Question No 5: Stages of Git ?
         Modified
         Staged
         Committed.
+
+Question No 6: 3 methods of git reset?
+        Hard
+        Soft
+        Mixed
